@@ -1,0 +1,35 @@
+candidate_screen:
+  minimum_relevant_studies: 2
+  minimum_unique_facilities: 5
+  require_population: true
+  require_obesity_prevalence: true
+
+active_statuses:
+  - RECRUITING
+  - NOT_YET_RECRUITING
+  - ACTIVE_NOT_RECRUITING
+  - ENROLLING_BY_INVITATION
+
+recent_start_year: 2021
+
+weights:
+  opportunity: 0.30
+  infrastructure: 0.30
+  competitive_headroom: 0.25
+  data_confidence: 0.15
+
+pillar_components:
+  opportunity:
+    obese_population_proxy: 1.0
+  infrastructure:
+    unique_facilities: 0.45
+    repeat_facilities: 0.25
+    relevant_studies: 0.20
+    sponsor_diversity: 0.10
+  competitive_headroom:
+    active_trials_per_10m_proxy: 0.65
+    active_sponsor_count: 0.35
+  data_confidence:
+    location_completeness: 0.45
+    evidence_depth: 0.35
+    indicator_recency: 0.20

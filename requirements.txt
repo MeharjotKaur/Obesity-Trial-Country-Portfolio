@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==2.3.5
+PyYAML==6.0.3
+PuLP==3.2.2
+PyMySQL==1.1.1
+SQLAlchemy==2.0.41
+pytest==8.4.1
+matplotlib==3.10.3
+seaborn==0.13.2
+

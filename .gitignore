@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+.qa-venv/
+.deck-build/
+presentation/preview/
+presentation/deck-montage.png
+data/raw/ncd_risc_obesity_country.csv
+*.log
+
+# Keep reproducible audit summaries, not downloaded source snapshots.
+!data/audit/
+!data/audit/*.json
+!data/audit/*.csv

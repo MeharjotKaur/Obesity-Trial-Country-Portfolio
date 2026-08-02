@@ -1,0 +1,70 @@
+{
+  "generated_at_utc": "2026-07-31T21:08:37.219399+00:00",
+  "solver": "PuLP CBC binary integer programming",
+  "base_status": "Optimal",
+  "base_portfolio": [
+    "United States",
+    "China",
+    "India",
+    "Brazil",
+    "Mexico"
+  ],
+  "base_iso3": [
+    "USA",
+    "CHN",
+    "IND",
+    "BRA",
+    "MEX"
+  ],
+  "base_objective": 373.49944526089826,
+  "base_diagnostics": {
+    "countries_selected": 5,
+    "regions_selected": 4,
+    "maximum_region_count": 2,
+    "total_opportunity_score": 454.4237770031025,
+    "total_infrastructure_score": 347.456774571953,
+    "low_confidence_countries": 0,
+    "opportunity_slack": 154.4237770031025,
+    "infrastructure_slack": 97.45677457195302
+  },
+  "naive_top_five": [
+    "United States",
+    "China",
+    "India",
+    "Brazil",
+    "Mexico"
+  ],
+  "naive_feasible": true,
+  "base_equals_naive": true,
+  "scenario_portfolios": {
+    "balanced": [
+      "United States",
+      "China",
+      "India",
+      "Brazil",
+      "Mexico"
+    ],
+    "patient_reach": [
+      "United States",
+      "China",
+      "India",
+      "Brazil",
+      "Mexico"
+    ],
+    "execution_readiness": [
+      "United States",
+      "China",
+      "India",
+      "Brazil",
+      "Mexico"
+    ],
+    "competition_averse": [
+      "United States",
+      "Russian Federation",
+      "India",
+      "Brazil",
+      "China"
+    ]
+  },
+  "assumption_notice": "Weights and portfolio constraints are sponsor-planning assumptions and are tested for sensitivity."
+}

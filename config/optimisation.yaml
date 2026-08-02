@@ -1,0 +1,38 @@
+portfolio_size: 5
+
+# Portfolio-level guardrails. These are sponsor-planning assumptions, not facts.
+constraints:
+  minimum_regions: 4
+  maximum_countries_per_region: 2
+  minimum_total_opportunity_score: 300
+  minimum_total_infrastructure_score: 250
+  low_confidence_threshold: 60
+  maximum_low_confidence_countries: 1
+
+scenarios:
+  balanced:
+    opportunity: 0.30
+    infrastructure: 0.30
+    competitive_headroom: 0.25
+    data_confidence: 0.15
+  patient_reach:
+    opportunity: 0.50
+    infrastructure: 0.25
+    competitive_headroom: 0.15
+    data_confidence: 0.10
+  execution_readiness:
+    opportunity: 0.20
+    infrastructure: 0.45
+    competitive_headroom: 0.15
+    data_confidence: 0.20
+  competition_averse:
+    opportunity: 0.20
+    infrastructure: 0.20
+    competitive_headroom: 0.45
+    data_confidence: 0.15
+
+monte_carlo:
+  simulations: 2000
+  random_seed: 20260731
+  dirichlet_concentration: 60
+  threshold_jitter_fraction: 0.10

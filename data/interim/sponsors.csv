@@ -1,0 +1,1022 @@
+nct_id,sponsor_role,sponsor_name,sponsor_class
+NCT01644201,LEAD,InovoBiologic Inc.,INDUSTRY
+NCT00375401,LEAD,Pfizer,INDUSTRY
+NCT07684144,LEAD,Amgen,INDUSTRY
+NCT05822830,LEAD,Eli Lilly and Company,INDUSTRY
+NCT06501248,LEAD,"Coordinación de Investigación en Salud, Mexico",OTHER_GOV
+NCT06309992,LEAD,Boehringer Ingelheim,INDUSTRY
+NCT00146107,LEAD,Washington University School of Medicine,OTHER
+NCT02672592,LEAD,"University Hospital, Basel, Switzerland",OTHER
+NCT03345771,LEAD,NYU Langone Health,OTHER
+NCT00623844,LEAD,University of Wuerzburg,OTHER
+NCT00623844,COLLABORATOR,Gmünder ErsatzKasse GEK,UNKNOWN
+NCT00623844,COLLABORATOR,University of Cologne,OTHER
+NCT03419624,LEAD,Universitätsklinikum Hamburg-Eppendorf,OTHER
+NCT03419624,COLLABORATOR,AstraZeneca,INDUSTRY
+NCT04520490,LEAD,Seattle Children's Hospital,OTHER
+NCT04520490,COLLABORATOR,University of Washington,OTHER
+NCT04221750,LEAD,VA Office of Research and Development,FED
+NCT04221750,COLLABORATOR,Michael E. DeBakey VA Medical Center,FED
+NCT04221750,COLLABORATOR,Baylor College of Medicine,OTHER
+NCT07075146,LEAD,José Antonio Mata Marín,OTHER_GOV
+NCT07075146,COLLABORATOR,Instituto Mexicano del Seguro Social,OTHER_GOV
+NCT00478972,LEAD,Sanofi,INDUSTRY
+NCT07037459,LEAD,Amgen,INDUSTRY
+NCT00386061,LEAD,Sanofi,INDUSTRY
+NCT04447313,LEAD,Fred Hutchinson Cancer Center,OTHER
+NCT04447313,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00029861,LEAD,Sanofi,INDUSTRY
+NCT05093634,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT01627925,LEAD,Massachusetts General Hospital,OTHER
+NCT07037433,LEAD,Amgen,INDUSTRY
+NCT00764270,LEAD,Oregon State University,OTHER
+NCT00764270,COLLABORATOR,Oregon Health and Science University,OTHER
+NCT00764270,COLLABORATOR,National Center for Complementary and Integrative Health (NCCIH),NIH
+NCT00955903,LEAD,University of Alabama at Birmingham,OTHER
+NCT04678323,LEAD,University of Minnesota,OTHER
+NCT07503210,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01724983,LEAD,University of Padova,OTHER
+NCT05887271,LEAD,University of Leicester,OTHER
+NCT05887271,COLLABORATOR,University of Oxford,OTHER
+NCT05887271,COLLABORATOR,University of Manchester,OTHER
+NCT05887271,COLLABORATOR,University of Leeds,OTHER
+NCT00975533,LEAD,Chinese University of Hong Kong,OTHER
+NCT00975533,COLLABORATOR,MetaCure Limited,INDUSTRY
+NCT01273584,LEAD,Epsom and St Helier University Hospitals NHS Trust,OTHER
+NCT01273584,COLLABORATOR,Fetal Medicine Foundation,OTHER
+NCT01273584,COLLABORATOR,King's College Hospital NHS Trust,OTHER
+NCT01272232,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07220772,LEAD,Regeneron Pharmaceuticals,INDUSTRY
+NCT06952712,LEAD,FANG HE,OTHER
+NCT00589498,LEAD,Mayo Clinic,OTHER
+NCT00589498,COLLABORATOR,National Institutes of Health (NIH),NIH
+NCT02342899,LEAD,Guy's and St Thomas' NHS Foundation Trust,OTHER
+NCT02342899,COLLABORATOR,Philips Electronics Nederland B.V. acting through Philips CTO organization,INDUSTRY
+NCT02868177,LEAD,Valbiotis,INDUSTRY
+NCT02868177,COLLABORATOR,Biofortis Mérieux NutriSciences,OTHER
+NCT02868177,COLLABORATOR,Institut Pasteur de Lille,OTHER
+NCT00000532,LEAD,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00495599,LEAD,Vanderbilt University,OTHER
+NCT01905956,LEAD,InQpharm Group,INDUSTRY
+NCT04800172,LEAD,Tanta University,OTHER
+NCT00929812,LEAD,"Charite University, Berlin, Germany",OTHER
+NCT00989339,LEAD,Emory University,OTHER
+NCT00989339,COLLABORATOR,American Diabetes Association,OTHER
+NCT00553787,LEAD,VIVUS LLC,INDUSTRY
+NCT00553787,COLLABORATOR,"Medpace, Inc.",INDUSTRY
+NCT05788965,LEAD,University of Minnesota,OTHER
+NCT05788965,COLLABORATOR,Cystic Fibrosis Foundation,OTHER
+NCT00679653,LEAD,Abbott,INDUSTRY
+NCT07734311,LEAD,"Hangzhou Sciwind Biosciences Co., Ltd.",INDUSTRY
+NCT00449605,LEAD,Sanofi,INDUSTRY
+NCT00678483,LEAD,Sanofi,INDUSTRY
+NCT05409612,LEAD,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT05409612,COLLABORATOR,"Sanofi Pasteur, a Sanofi Company",INDUSTRY
+NCT05409612,COLLABORATOR,Hospices Civils de Lyon,OTHER
+NCT02516475,LEAD,National Nutrition and Food Technology Institute,OTHER
+NCT04525300,LEAD,Xiangya Hospital of Central South University,OTHER
+NCT06914895,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00520182,LEAD,Ben-Gurion University of the Negev,OTHER
+NCT00520182,COLLABORATOR,The S. Daniel Abraham International Center for Health and Nutrition,OTHER
+NCT00520182,COLLABORATOR,Clalit Health Services,OTHER
+NCT07284901,LEAD,Kailera,INDUSTRY
+NCT07567001,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT02367105,LEAD,VA Office of Research and Development,FED
+NCT02367105,COLLABORATOR,Michael E. DeBakey VA Medical Center,FED
+NCT02367105,COLLABORATOR,Baylor College of Medicine,OTHER
+NCT02367105,COLLABORATOR,Biomedical Research Institute of New Mexico,OTHER
+NCT05394519,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01934777,LEAD,Bambino Gesù Hospital and Research Institute,OTHER
+NCT05482672,LEAD,"Cale Andrew Jacobs, PhD",OTHER
+NCT05482672,COLLABORATOR,Massachusetts General Hospital,OTHER
+NCT00478595,LEAD,Sanofi,INDUSTRY
+NCT02157974,LEAD,"University of Colorado, Denver",OTHER
+NCT02157974,COLLABORATOR,National Center for Advancing Translational Sciences (NCATS),NIH
+NCT02157974,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT01764113,LEAD,Mayo Clinic,OTHER
+NCT00383058,LEAD,Taipei City Hospital,OTHER_GOV
+NCT00383058,COLLABORATOR,"National Science and Technology Council, Taiwan",OTHER_GOV
+NCT00383058,COLLABORATOR,"Taipei Hospital, Taiwan",OTHER
+NCT02140697,LEAD,Chonbuk National University Hospital,OTHER
+NCT00131404,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT07670884,LEAD,"Fujian Shengdi Pharmaceutical Co., Ltd.",INDUSTRY
+NCT01334125,LEAD,"University of Massachusetts, Worcester",OTHER
+NCT01028976,LEAD,"University of California, Berkeley",OTHER
+NCT01028976,COLLABORATOR,Kaiser Permanente,OTHER
+NCT00872378,LEAD,Advanced Specialty Care,OTHER
+NCT02410668,LEAD,National Nutrition and Food Technology Institute,OTHER
+NCT00210808,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT00210808,COLLABORATOR,"Ortho-McNeil Neurologics, Inc.",INDUSTRY
+NCT05872932,LEAD,Sebahattin Celik MD,OTHER
+NCT06548100,LEAD,Regeneron Pharmaceuticals,INDUSTRY
+NCT01109199,LEAD,Canadian Center for Functional Medicine,OTHER
+NCT01109199,COLLABORATOR,University of British Columbia,OTHER
+NCT01109199,COLLABORATOR,InovoBiologic Inc.,INDUSTRY
+NCT06125587,LEAD,Shengjing Hospital,OTHER
+NCT02356016,LEAD,University of Erlangen-Nürnberg Medical School,OTHER
+NCT02356016,COLLABORATOR,University of Erlangen-Nürnberg,OTHER
+NCT02356016,COLLABORATOR,"Bavarian Research Foundation, Munich, Germany",UNKNOWN
+NCT02356016,COLLABORATOR,"miha bodytec, Gersthofen, Germany",UNKNOWN
+NCT02356016,COLLABORATOR,"Physiomed, Laipersdorf, Germany",UNKNOWN
+NCT02356016,COLLABORATOR,Siemens AG,INDUSTRY
+NCT02432209,LEAD,Yale University,OTHER
+NCT02432209,COLLABORATOR,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),NIH
+NCT02432209,COLLABORATOR,Penn State University,OTHER
+NCT02432209,COLLABORATOR,Augusta University,OTHER
+NCT02432209,COLLABORATOR,"University of California, San Francisco",OTHER
+NCT02432209,COLLABORATOR,University of North Carolina,OTHER
+NCT02432209,COLLABORATOR,University of Oklahoma,OTHER
+NCT02432209,COLLABORATOR,University of Pennsylvania,OTHER
+NCT03651765,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT01613664,LEAD,"Centre Hospitalier Universitaire, Amiens",OTHER
+NCT05869903,LEAD,Eli Lilly and Company,INDUSTRY
+NCT05620641,LEAD,Tanta University,OTHER
+NCT00434096,LEAD,Sanofi,INDUSTRY
+NCT04074161,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07225686,LEAD,Amgen,INDUSTRY
+NCT04966741,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT01402128,LEAD,Chonbuk National University Hospital,OTHER
+NCT00486941,LEAD,Umeå University,OTHER
+NCT00486941,COLLABORATOR,"County Council of Norrbotten, Sweden",OTHER_GOV
+NCT01629394,LEAD,University of Patras,OTHER
+NCT02412631,LEAD,Mayo Clinic,OTHER
+NCT02412631,COLLABORATOR,National Institute on Drug Abuse (NIDA),NIH
+NCT01353066,LEAD,Hospital Clinic of Barcelona,OTHER
+NCT02183935,LEAD,University Medical Centre Ljubljana,OTHER
+NCT00029835,LEAD,Sanofi,INDUSTRY
+NCT00868543,LEAD,Kaunas University of Medicine,OTHER
+NCT04651218,LEAD,Kyle Flack,OTHER
+NCT04651218,COLLABORATOR,National Institute of General Medical Sciences (NIGMS),NIH
+NCT00545805,LEAD,"University of Campinas, Brazil",OTHER
+NCT00545805,COLLABORATOR,Fundação de Amparo à Pesquisa do Estado de São Paulo,OTHER_GOV
+NCT06597474,LEAD,Michigan State University,OTHER
+NCT07571109,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01833507,LEAD,Mayo Clinic,OTHER
+NCT07720271,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT03454711,LEAD,Rennes University Hospital,OTHER
+NCT03454711,COLLABORATOR,"Institut NuMeCan, INRAE 1341",UNKNOWN
+NCT02921217,LEAD,Biopolis S.L.,INDUSTRY
+NCT02921217,COLLABORATOR,Technological Centre of Nutrition and Health,OTHER
+NCT02921217,COLLABORATOR,Hospital Universitari Sant Joan de Reus,OTHER
+NCT02921217,COLLABORATOR,University Rovira i Virgili,OTHER
+NCT07501832,LEAD,Gan & Lee Pharmaceuticals.,INDUSTRY
+NCT03480022,LEAD,Woman's,OTHER
+NCT03480022,COLLABORATOR,Novo Nordisk A/S,INDUSTRY
+NCT07220642,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00459056,LEAD,St. Paul Heart Clinic,OTHER
+NCT00459056,COLLABORATOR,GlaxoSmithKline,INDUSTRY
+NCT01120873,LEAD,Taichung Veterans General Hospital,OTHER
+NCT05813795,LEAD,"Hangzhou Sciwind Biosciences Co., Ltd.",INDUSTRY
+NCT00398359,LEAD,"University of Wisconsin, Madison",OTHER
+NCT00398359,COLLABORATOR,Agency for Healthcare Research and Quality (AHRQ),FED
+NCT03919929,LEAD,"University of Colorado, Denver",OTHER
+NCT03919929,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT05929079,LEAD,Eli Lilly and Company,INDUSTRY
+NCT05087342,LEAD,Loma Linda University,OTHER
+NCT05087342,COLLABORATOR,Novo Nordisk A/S,INDUSTRY
+NCT00474630,LEAD,"Orexigen Therapeutics, Inc",INDUSTRY
+NCT00603902,LEAD,Eisai Inc.,INDUSTRY
+NCT01559194,LEAD,Ohio State University Comprehensive Cancer Center,OTHER
+NCT01559194,COLLABORATOR,Breast Cancer Research Foundation,OTHER
+NCT00389246,LEAD,Philipps University Marburg,OTHER
+NCT05567796,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01546727,LEAD,"Children's Hospital Medical Center, Cincinnati",OTHER
+NCT01546727,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT07104383,LEAD,"Viking Therapeutics, Inc.",INDUSTRY
+NCT03116009,LEAD,University of Illinois at Chicago,OTHER
+NCT03946111,LEAD,Yale University,OTHER
+NCT03946111,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT04657003,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00325546,LEAD,Sanofi,INDUSTRY
+NCT01499485,LEAD,Hospital Son Llatzer,OTHER
+NCT03153813,LEAD,Nadine ATTAL,OTHER
+NCT06937060,LEAD,The University of Hong Kong,OTHER
+NCT02373007,LEAD,Instituto Paulo Reis,OTHER
+NCT01707732,LEAD,"University Hospital, Rouen",OTHER
+NCT06972472,LEAD,Eli Lilly and Company,INDUSTRY
+NCT03109834,LEAD,"Bonn Education Association for Dietetics r.A., Cologne, Germany",INDUSTRY
+NCT03109834,COLLABORATOR,FomMed HealthCare AG,UNKNOWN
+NCT07595549,LEAD,Pfizer,INDUSTRY
+NCT04487743,LEAD,Xiangya Hospital of Central South University,OTHER
+NCT07311850,LEAD,Pfizer,INDUSTRY
+NCT05997576,LEAD,"CSPC Baike (Shandong) Biopharmaceutical Co., Ltd.",INDUSTRY
+NCT01211574,LEAD,The Miriam Hospital,OTHER
+NCT01003639,LEAD,St. Luke's-Roosevelt Hospital Center,OTHER
+NCT01003639,COLLABORATOR,National Eye Institute (NEI),NIH
+NCT01003639,COLLABORATOR,University of Rochester,OTHER
+NCT01003639,COLLABORATOR,University of Iowa,OTHER
+NCT01003639,COLLABORATOR,"University of California, Davis",OTHER
+NCT04325581,LEAD,"Post Graduate Institute of Medical Education and Research, Chandigarh",OTHER
+NCT00969267,LEAD,Taipei City Hospital,OTHER_GOV
+NCT00969267,COLLABORATOR,National Yang Ming Chiao Tung University,OTHER
+NCT06229795,LEAD,Ain Shams University,OTHER
+NCT03790865,LEAD,Millendo Therapeutics SAS,INDUSTRY
+NCT00384605,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT07670416,LEAD,Hoffmann-La Roche,INDUSTRY
+NCT00483171,LEAD,Pfizer,INDUSTRY
+NCT07564414,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00092872,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT07509307,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01444651,LEAD,"Thomas J. Wang, MD",OTHER
+NCT00131430,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT00546325,LEAD,Sanofi,INDUSTRY
+NCT03720574,LEAD,"Kanion & Huawe Medicine Co.,Ltd",INDUSTRY
+NCT02918279,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01068197,LEAD,Nazrat Mirza,OTHER
+NCT01068197,COLLABORATOR,National Center for Research Resources (NCRR),NIH
+NCT01068197,COLLABORATOR,Consumer Health Foundation,UNKNOWN
+NCT01068197,COLLABORATOR,Jessie Ball DuPont Foundation,UNKNOWN
+NCT00481923,LEAD,Sanofi,INDUSTRY
+NCT02122029,LEAD,Harokopio University,OTHER
+NCT02122029,COLLABORATOR,"The University of Texas Medical Branch, Galveston",OTHER
+NCT04283578,LEAD,"University Hospital, Toulouse",OTHER
+NCT04283578,COLLABORATOR,International Clinical Trials Association,OTHER
+NCT04283578,COLLABORATOR,Epidemiological and Clinical Research Information Network,OTHER
+NCT00479609,LEAD,Karolinska Institutet,OTHER
+NCT00479609,COLLABORATOR,Karolinska University Hospital,OTHER
+NCT00479609,COLLABORATOR,Southern Hospital Stockholm,UNKNOWN
+NCT00479609,COLLABORATOR,UroHealth Skövde,UNKNOWN
+NCT00479609,COLLABORATOR,Universitätsklinikum MünsterInstitut für Reproduktionsmedizin,UNKNOWN
+NCT00479609,COLLABORATOR,Krankenanstalt der Stadt Wien Rudolfstiftung,UNKNOWN
+NCT00479609,COLLABORATOR,Medical University of Graz,OTHER
+NCT00479609,COLLABORATOR,Krankenhaus der Stadt Wien Lainz,UNKNOWN
+NCT00479609,COLLABORATOR,Medical University of Vienna,OTHER
+NCT00479609,COLLABORATOR,Endokrinologikum Hamburg,UNKNOWN
+NCT00479609,COLLABORATOR,"Charite University, Berlin, Germany",OTHER
+NCT06363747,LEAD,Durham VA Medical Center,FED
+NCT06363747,COLLABORATOR,Société des Produits Nestlé (SPN),INDUSTRY
+NCT03585413,LEAD,"Bonn Education Association for Dietetics r.A., Cologne, Germany",INDUSTRY
+NCT03585413,COLLABORATOR,St. Franziskus Hospital,OTHER
+NCT03585413,COLLABORATOR,University of Bonn,OTHER
+NCT03585413,COLLABORATOR,FormMed HealthCare AG,UNKNOWN
+NCT00138710,LEAD,Rijnstate Hospital,OTHER
+NCT00231621,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT04889183,LEAD,University Medical Center Groningen,OTHER
+NCT04889183,COLLABORATOR,Novo Nordisk A/S,INDUSTRY
+NCT02978105,LEAD,"University of Turin, Italy",OTHER
+NCT05024032,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00195858,LEAD,Ottawa Hospital Research Institute,OTHER
+NCT00195858,COLLABORATOR,Canadian Institutes of Health Research (CIHR),OTHER_GOV
+NCT00195858,COLLABORATOR,Canadian Diabetes Association,OTHER
+NCT05996848,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT06858878,LEAD,Amgen,INDUSTRY
+NCT01659450,LEAD,Isfahan University of Medical Sciences,OTHER
+NCT06588296,LEAD,Eli Lilly and Company,INDUSTRY
+NCT07339423,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00392717,LEAD,The University of Western Australia,OTHER
+NCT00563368,LEAD,VIVUS LLC,INDUSTRY
+NCT00563368,COLLABORATOR,"Medpace, Inc.",INDUSTRY
+NCT03063606,LEAD,Yale University,OTHER
+NCT03063606,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT06619015,LEAD,Esbjerg Hospital - University Hospital of Southern Denmark,OTHER
+NCT01040468,LEAD,University of Pennsylvania,OTHER
+NCT01040468,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT02108691,LEAD,Hanyang University,OTHER
+NCT00108589,LEAD,US Department of Veterans Affairs,FED
+NCT01764386,LEAD,"Orexigen Therapeutics, Inc",INDUSTRY
+NCT05931380,LEAD,Eli Lilly and Company,INDUSTRY
+NCT01792362,LEAD,Royan Institute,OTHER_GOV
+NCT04605861,LEAD,Shanghai Zhongshan Hospital,OTHER
+NCT07622290,LEAD,Prof Ibrahim Janahi,OTHER
+NCT04741074,LEAD,Geisinger Clinic,OTHER
+NCT06962280,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00783445,LEAD,Johns Hopkins University,OTHER
+NCT00783445,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT07036172,LEAD,"Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",INDUSTRY
+NCT05405244,LEAD,"University of North Carolina, Chapel Hill",OTHER
+NCT05405244,COLLABORATOR,American Diabetes Association,OTHER
+NCT02654665,LEAD,Changi General Hospital,OTHER
+NCT06423599,LEAD,"Jens D Hove, MD,PHD",OTHER
+NCT06383390,LEAD,Eli Lilly and Company,INDUSTRY
+NCT04086810,LEAD,"Soleno Therapeutics, Inc.",INDUSTRY
+NCT04788511,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT02204163,LEAD,LG Life Sciences,INDUSTRY
+NCT06884293,LEAD,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY
+NCT00029848,LEAD,Sanofi,INDUSTRY
+NCT00645255,LEAD,Abbott,INDUSTRY
+NCT01868347,LEAD,"University of Turin, Italy",OTHER
+NCT07253285,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00603109,LEAD,Weill Medical College of Cornell University,OTHER
+NCT00603109,COLLABORATOR,National Institutes of Health (NIH),NIH
+NCT00603109,COLLABORATOR,PWSAUSA,UNKNOWN
+NCT00871416,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01724099,LEAD,Kyunghee University Medical Center,OTHER
+NCT01724099,COLLABORATOR,Korea Health Industry Development Institute,OTHER_GOV
+NCT01724099,COLLABORATOR,Gachon University Gil Medical Center,OTHER
+NCT02338193,LEAD,Woman's,OTHER
+NCT02338193,COLLABORATOR,AstraZeneca,INDUSTRY
+NCT05412004,LEAD,Eli Lilly and Company,INDUSTRY
+NCT06149793,LEAD,University of Minnesota,OTHER
+NCT02880540,LEAD,Janelle Vaughns,OTHER
+NCT00677391,LEAD,Abbott,INDUSTRY
+NCT00221442,LEAD,Lindner Center of HOPE,OTHER
+NCT00221442,COLLABORATOR,Eisai Inc.,INDUSTRY
+NCT00221442,COLLABORATOR,University of Cincinnati,OTHER
+NCT06379113,LEAD,Xiaojun Chen,OTHER
+NCT00391196,LEAD,Pfizer,INDUSTRY
+NCT00554216,LEAD,VIVUS LLC,INDUSTRY
+NCT00554216,COLLABORATOR,"Medpace, Inc.",INDUSTRY
+NCT05040971,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07369011,LEAD,Eli Lilly and Company,INDUSTRY
+NCT03850314,LEAD,Prof. Tony hayek MD,OTHER
+NCT06893016,LEAD,"Guangdong Raynovent Biotech Co., Ltd",INDUSTRY
+NCT04885634,LEAD,Axel Brandes,OTHER
+NCT04885634,COLLABORATOR,Herlev and Gentofte Hospital,OTHER
+NCT04885634,COLLABORATOR,"Hillerod Hospital, Denmark",OTHER
+NCT04885634,COLLABORATOR,Svendborg Hospital,OTHER
+NCT04885634,COLLABORATOR,Esbjerg Hospital - University Hospital of Southern Denmark,OTHER
+NCT00067145,LEAD,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT03435458,LEAD,"University Hospital, Toulouse",OTHER
+NCT02768818,LEAD,University of Modena and Reggio Emilia,OTHER
+NCT00944138,LEAD,Edward Hines Jr. VA Hospital,FED
+NCT03290846,LEAD,Turku University Hospital,OTHER_GOV
+NCT03290846,COLLABORATOR,Technical University of Munich,OTHER
+NCT01758146,LEAD,"Post Graduate Institute of Medical Education and Research, Chandigarh",OTHER
+NCT05132088,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT04683237,LEAD,Xiaojun Chen,OTHER
+NCT04683237,COLLABORATOR,Huashan Hospital,OTHER
+NCT02397499,LEAD,"Neothetics, Inc",INDUSTRY
+NCT01060592,LEAD,Crospon,INDUSTRY
+NCT00231530,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT00444392,LEAD,Vanderbilt University,OTHER
+NCT05309395,LEAD,Kaiser Permanente,OTHER
+NCT05309395,COLLABORATOR,Children's Hospital Los Angeles,OTHER
+NCT05309395,COLLABORATOR,National Institute on Minority Health and Health Disparities (NIMHD),NIH
+NCT04645719,LEAD,University of Sao Paulo General Hospital,OTHER
+NCT01108328,LEAD,Canadian Center for Functional Medicine,OTHER
+NCT01108328,COLLABORATOR,University of British Columbia,OTHER
+NCT01108328,COLLABORATOR,InovoBiologic Inc.,INDUSTRY
+NCT03045341,LEAD,Yale University,OTHER
+NCT03045341,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00552942,LEAD,Legacy Health System,OTHER
+NCT00808431,LEAD,Vanderbilt University,OTHER
+NCT02626741,LEAD,Mahidol University,OTHER
+NCT01557166,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT05646706,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01598233,LEAD,Universidade Federal do Rio de Janeiro,OTHER
+NCT07387094,LEAD,"Hangzhou Sciwind Biosciences Co., Ltd.",INDUSTRY
+NCT00580502,LEAD,NYU Langone Health,OTHER
+NCT00580502,COLLABORATOR,Allergan,INDUSTRY
+NCT01681069,LEAD,InQpharm Group,INDUSTRY
+NCT01886495,LEAD,Isfahan University of Medical Sciences,OTHER
+NCT02041754,LEAD,InQpharm Group,INDUSTRY
+NCT00263042,LEAD,Sanofi,INDUSTRY
+NCT03926052,LEAD,Yale University,OTHER
+NCT03926052,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT04844918,LEAD,Eli Lilly and Company,INDUSTRY
+NCT04102189,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00165685,LEAD,Eisai Limited,INDUSTRY
+NCT04599478,LEAD,Yale University,OTHER
+NCT04599478,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT01814072,LEAD,Northwestern University,OTHER
+NCT01814072,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT01814072,COLLABORATOR,Penn State University,OTHER
+NCT07226765,LEAD,Amgen,INDUSTRY
+NCT02754258,LEAD,Children's Hospital of Eastern Ontario,OTHER
+NCT02754258,COLLABORATOR,University of Ottawa,OTHER
+NCT07684235,LEAD,Amgen,INDUSTRY
+NCT00202748,LEAD,Sorlandet Hospital HF,OTHER_GOV
+NCT00166699,LEAD,NHS Greater Glasgow and Clyde,OTHER
+NCT06904105,LEAD,"Shandong Suncadia Medicine Co., Ltd.",INDUSTRY
+NCT00781937,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00896545,LEAD,Stanford University,OTHER
+NCT01106053,LEAD,"Neuropsychiatric Research Institute, Fargo, North Dakota",OTHER
+NCT00567255,LEAD,"Orexigen Therapeutics, Inc",INDUSTRY
+NCT01546792,LEAD,Sheffield Teaching Hospitals NHS Foundation Trust,OTHER
+NCT01546792,COLLABORATOR,Sheffield Hallam University,OTHER
+NCT00566189,LEAD,"University of Campinas, Brazil",OTHER
+NCT00566189,COLLABORATOR,Ethicon Endo-Surgery,INDUSTRY
+NCT02963935,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT06184568,LEAD,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY
+NCT03192566,LEAD,Children's National Research Institute,OTHER
+NCT02355041,LEAD,Icahn School of Medicine at Mount Sinai,OTHER
+NCT00600483,LEAD,Innocoll,INDUSTRY
+NCT00600483,COLLABORATOR,Duke University,OTHER
+NCT00600483,COLLABORATOR,Premier Research,OTHER
+NCT01114451,LEAD,Prisma Health-Upstate,OTHER
+NCT02832219,LEAD,"Center for Health Sciences, Serbia",OTHER
+NCT02564445,LEAD,University of Pennsylvania,OTHER
+NCT06972459,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00807768,LEAD,Gynecologic Oncology Group,NETWORK
+NCT00807768,COLLABORATOR,National Cancer Institute (NCI),NIH
+NCT01724970,LEAD,University of Padova,OTHER
+NCT01724970,COLLABORATOR,Azienda Ospedaliera di Padova,OTHER
+NCT01242241,LEAD,Baylor College of Medicine,OTHER
+NCT00737347,LEAD,Northwestern University,OTHER
+NCT00737347,COLLABORATOR,Takeda,INDUSTRY
+NCT05064735,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT04697381,LEAD,Pfizer,INDUSTRY
+NCT00541567,LEAD,Solvay Pharmaceuticals,INDUSTRY
+NCT00541567,COLLABORATOR,Bristol-Myers Squibb,INDUSTRY
+NCT05457530,LEAD,Prism Health North Texas,OTHER
+NCT05457530,COLLABORATOR,Merck Sharp & Dohme LLC,INDUSTRY
+NCT02527200,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT05649137,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07282600,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00823992,LEAD,Hoffmann-La Roche,INDUSTRY
+NCT01607177,LEAD,"University of Auckland, New Zealand",OTHER
+NCT01607177,COLLABORATOR,"Health Research Council, New Zealand",OTHER
+NCT07629544,LEAD,"Chendu DIAO Pharmaceutical Group CO., LTD.",INDUSTRY
+NCT07629544,COLLABORATOR,Peking University People's Hospital,OTHER
+NCT01552642,LEAD,"University of Wisconsin, Madison",OTHER
+NCT00038727,LEAD,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00038727,COLLABORATOR,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),NIH
+NCT00038727,COLLABORATOR,National Institute on Aging (NIA),NIH
+NCT00038727,COLLABORATOR,National Institute on Minority Health and Health Disparities (NIMHD),NIH
+NCT00038727,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00038727,COLLABORATOR,National Cancer Institute (NCI),NIH
+NCT00038727,COLLABORATOR,National Eye Institute (NEI),NIH
+NCT00038727,COLLABORATOR,National Center for Research Resources (NCRR),NIH
+NCT00038727,COLLABORATOR,Office of Research on Women's Health (ORWH),NIH
+NCT00038727,COLLABORATOR,Centers for Disease Control and Prevention,FED
+NCT00038727,COLLABORATOR,American Diabetes Association,OTHER
+NCT00038727,COLLABORATOR,Indian Health Service (IHS),FED
+NCT00038727,COLLABORATOR,General Clinical Research Program,UNKNOWN
+NCT00038727,COLLABORATOR,US Department of Veterans Affairs,FED
+NCT06937086,LEAD,Eli Lilly and Company,INDUSTRY
+NCT02147041,LEAD,Taipei City Hospital,OTHER_GOV
+NCT02147041,COLLABORATOR,National Yang Ming Chiao Tung University,OTHER
+NCT02227420,LEAD,"University Hospital, Basel, Switzerland",OTHER
+NCT07648225,LEAD,"The United Bio-Technology (Hengqin) Co., Ltd.",INDUSTRY
+NCT04660643,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00395135,LEAD,Eisai Inc.,INDUSTRY
+NCT06174779,LEAD,Hanmi Pharmaceutical Company Limited,INDUSTRY
+NCT04131582,LEAD,Universidad de Guanajuato,OTHER
+NCT04131582,COLLABORATOR,Hospital Regional de Alta Especialidad del Bajio,OTHER
+NCT07321886,LEAD,Eli Lilly and Company,INDUSTRY
+NCT03287960,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT06948435,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00123526,LEAD,"University of Massachusetts, Worcester",OTHER
+NCT00123526,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01601704,LEAD,"Orexigen Therapeutics, Inc",INDUSTRY
+NCT00234832,LEAD,Abbott,INDUSTRY
+NCT00414505,LEAD,Wonkwang University,OTHER
+NCT00414505,COLLABORATOR,Korea Institute of Oriental Medicine,OTHER_GOV
+NCT06214741,LEAD,Boehringer Ingelheim,INDUSTRY
+NCT06987383,LEAD,Wake Forest University Health Sciences,OTHER
+NCT06987383,COLLABORATOR,National Institute on Aging (NIA),NIH
+NCT04847557,LEAD,Eli Lilly and Company,INDUSTRY
+NCT04251156,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00481975,LEAD,Sanofi,INDUSTRY
+NCT07197034,LEAD,"Aardvark Therapeutics, Inc.",INDUSTRY
+NCT00976937,LEAD,Sanofi,INDUSTRY
+NCT00746902,LEAD,"University Hospital, Grenoble",OTHER
+NCT00746902,COLLABORATOR,Fondation de Recherche sur l'Hypertension Artérielle,OTHER
+NCT07285902,LEAD,"Fujian Shengdi Pharmaceutical Co., Ltd.",INDUSTRY
+NCT05803421,LEAD,Eli Lilly and Company,INDUSTRY
+NCT06950138,LEAD,"Coordinación de Investigación en Salud, Mexico",OTHER_GOV
+NCT00993278,LEAD,Boston Medical Center,OTHER
+NCT00993278,COLLABORATOR,Robert C. Atkins Foundation,OTHER
+NCT07434050,LEAD,"Hangzhou Sciwind Biosciences Co., Ltd.",INDUSTRY
+NCT04134650,LEAD,Universidad de Guanajuato,OTHER
+NCT04134650,COLLABORATOR,Hospital Regional de Alta Especialidad del Bajio,OTHER
+NCT00553852,LEAD,Federico II University,OTHER
+NCT01258114,LEAD,Association Francaise pour la Recherche Thermale,OTHER
+NCT01258114,COLLABORATOR,Université Joseph Fourier,OTHER
+NCT01258114,COLLABORATOR,Université Victor Segalen Bordeaux 2,OTHER
+NCT01258114,COLLABORATOR,HAT Consultant,UNKNOWN
+NCT01258114,COLLABORATOR,AXONAL S.A.,UNKNOWN
+NCT00299325,LEAD,Sanofi,INDUSTRY
+NCT01855217,LEAD,St. Antonius Hospital,OTHER
+NCT02786108,LEAD,Zhongda Hospital,OTHER
+NCT02398188,LEAD,Evofem Inc.,INDUSTRY
+NCT02398188,COLLABORATOR,"Neothetics, Inc",INDUSTRY
+NCT06939296,LEAD,"Vincentage Pharma Co., Ltd",INDUSTRY
+NCT06885021,LEAD,"Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",INDUSTRY
+NCT02008474,LEAD,The Miriam Hospital,OTHER
+NCT02008474,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT07357766,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01315366,LEAD,American University of Beirut Medical Center,OTHER
+NCT01315366,COLLABORATOR,Hotel Dieu de France Hospital,OTHER
+NCT01315366,COLLABORATOR,Rafic Hariri University Hospital,OTHER
+NCT05667038,LEAD,King Saud University,OTHER
+NCT00236600,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT00594399,LEAD,US Department of Veterans Affairs,FED
+NCT07400107,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT05209984,LEAD,Eurofarma Laboratorios S.A.,INDUSTRY
+NCT02417103,LEAD,Universitätsklinikum Hamburg-Eppendorf,OTHER
+NCT00526565,LEAD,Kaiser Permanente,OTHER
+NCT00526565,COLLABORATOR,National Center for Complementary and Integrative Health (NCCIH),NIH
+NCT07284511,LEAD,McGill University Health Centre/Research Institute of the McGill University Health Centre,OTHER
+NCT07284511,COLLABORATOR,Breakthrough T1D,OTHER
+NCT07284511,COLLABORATOR,Institut de Recherches Cliniques de Montreal,OTHER
+NCT07284511,COLLABORATOR,"Insel Gruppe AG, University Hospital Bern",OTHER
+NCT01697566,LEAD,M.D. Anderson Cancer Center,OTHER
+NCT01697566,COLLABORATOR,National Cancer Institute (NCI),NIH
+NCT07446439,LEAD,Vanda Pharmaceuticals,INDUSTRY
+NCT00000519,LEAD,Stanford University,OTHER
+NCT00000519,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00656422,LEAD,University Hospital Tuebingen,OTHER
+NCT00656422,COLLABORATOR,Medical University of Vienna,OTHER
+NCT00656422,COLLABORATOR,University of Bern,OTHER
+NCT00656422,COLLABORATOR,CenTrial GmbH,INDUSTRY
+NCT05035095,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT02860923,LEAD,"University Hospital, Bordeaux",OTHER
+NCT02635386,LEAD,Woman's,OTHER
+NCT02635386,COLLABORATOR,AstraZeneca,INDUSTRY
+NCT01652040,LEAD,VA Office of Research and Development,FED
+NCT01652040,COLLABORATOR,Virginia Commonwealth University,OTHER
+NCT07738276,LEAD,Shahid Beheshti University of Medical Sciences,OTHER
+NCT01560676,LEAD,Yale University,OTHER
+NCT04520256,LEAD,The Miriam Hospital,OTHER
+NCT05194124,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT05882045,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00990457,LEAD,Johns Hopkins University,OTHER
+NCT00990457,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00324545,LEAD,The Camelot Foundation,OTHER
+NCT00324545,COLLABORATOR,"GM Harrington, PhD",UNKNOWN
+NCT06896981,LEAD,"Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh",OTHER
+NCT00261911,LEAD,Abbott,INDUSTRY
+NCT03611582,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT02956590,LEAD,Carelon Research,OTHER
+NCT02956590,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01043718,LEAD,University of Pittsburgh,OTHER
+NCT01043718,COLLABORATOR,Milton S. Hershey Medical Center,OTHER
+NCT01043718,COLLABORATOR,United States Department of Defense,FED
+NCT03196791,LEAD,Korea University Anam Hospital,OTHER
+NCT01047657,LEAD,University of Sao Paulo General Hospital,OTHER
+NCT01047657,COLLABORATOR,Fundação de Amparo à Pesquisa do Estado de São Paulo,OTHER_GOV
+NCT06499857,LEAD,University of Chicago,OTHER
+NCT00948402,LEAD,Federico II University,OTHER
+NCT00284557,LEAD,Emory University,OTHER
+NCT00284557,COLLABORATOR,Centers for Disease Control and Prevention,FED
+NCT02823912,LEAD,University of Guadalajara,OTHER
+NCT02823912,COLLABORATOR,PhD. Teresa Arcelia Garcia Cobian,UNKNOWN
+NCT02823912,COLLABORATOR,LN. Jessica Lucia Barajas Vega,UNKNOWN
+NCT06952530,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00131391,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT01934036,LEAD,Catalysis SL,INDUSTRY
+NCT05564117,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00859989,LEAD,University of Illinois at Chicago,OTHER
+NCT00859989,COLLABORATOR,National Cancer Institute (NCI),NIH
+NCT07298915,LEAD,University of Virginia,OTHER
+NCT00355979,LEAD,Chinese University of Hong Kong,OTHER
+NCT05965908,LEAD,Beni-Suef University,OTHER
+NCT07294950,LEAD,"Mount Sinai Hospital, Canada",OTHER
+NCT07294950,COLLABORATOR,Heart and Stroke Foundation of Canada,OTHER
+NCT00522964,LEAD,"University of California, San Francisco",OTHER
+NCT02145442,LEAD,Catalysis SL,INDUSTRY
+NCT07528027,LEAD,"Shandong Suncadia Medicine Co., Ltd.",INDUSTRY
+NCT00402584,LEAD,Abbott,INDUSTRY
+NCT01249872,LEAD,University of Patras,OTHER
+NCT07357415,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00907660,LEAD,Kaiser Permanente,OTHER
+NCT00907660,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT07219485,LEAD,"Harmony Biosciences Management, Inc.",INDUSTRY
+NCT04971720,LEAD,University of Alabama at Birmingham,OTHER
+NCT04971720,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00782262,LEAD,University of Adelaide,OTHER
+NCT00782262,COLLABORATOR,Royal Adelaide Hospital,OTHER
+NCT00603291,LEAD,Eisai Inc.,INDUSTRY
+NCT00219115,LEAD,Novartis,INDUSTRY
+NCT01208558,LEAD,Lund University,OTHER
+NCT01208558,COLLABORATOR,Region Skane,OTHER
+NCT05726227,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01015976,LEAD,"Neuropsychiatric Research Institute, Fargo, North Dakota",OTHER
+NCT01015976,COLLABORATOR,University of North Dakota,OTHER
+NCT01677923,LEAD,Lithuanian University of Health Sciences,OTHER
+NCT00826774,LEAD,University of Pennsylvania,OTHER
+NCT00826774,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT05952882,LEAD,Mỹ Đức Hospital,OTHER
+NCT00504673,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01530724,LEAD,Ben-Gurion University of the Negev,OTHER
+NCT00440180,LEAD,University of Utah,OTHER
+NCT04916470,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT04274608,LEAD,Tan Tock Seng Hospital,OTHER
+NCT03516968,LEAD,Hospices Civils de Lyon,OTHER
+NCT00231660,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT06738979,LEAD,"Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",INDUSTRY
+NCT01601574,LEAD,Medical University of South Carolina,OTHER
+NCT01601574,COLLABORATOR,WW International Inc,INDUSTRY
+NCT01387126,LEAD,Canadian Center for Functional Medicine,OTHER
+NCT01387126,COLLABORATOR,University of British Columbia,OTHER
+NCT01387126,COLLABORATOR,InovoBiologic Inc.,INDUSTRY
+NCT00040287,LEAD,National Institute of Neurological Disorders and Stroke (NINDS),NIH
+NCT04717726,LEAD,Kyle Flack,OTHER
+NCT06780449,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01755676,LEAD,EMS,INDUSTRY
+NCT03440814,LEAD,"Soleno Therapeutics, Inc.",INDUSTRY
+NCT03574597,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT03516188,LEAD,Universiti Sains Malaysia,OTHER
+NCT00032760,LEAD,National Center for Complementary and Integrative Health (NCCIH),NIH
+NCT02564627,LEAD,Abdel Kadar Clinic,OTHER
+NCT04662801,LEAD,Yale University,OTHER
+NCT04662801,COLLABORATOR,American Psychological Foundation,OTHER
+NCT06075667,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00073242,LEAD,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00185770,LEAD,Stanford University,OTHER
+NCT00185770,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT00185770,COLLABORATOR,Robert Wood Johnson Foundation,OTHER
+NCT01667783,LEAD,Johns Hopkins University,OTHER
+NCT01667783,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00284167,LEAD,Robert Wood Johnson Foundation,OTHER
+NCT00284167,COLLABORATOR,Kaiser Permanente,OTHER
+NCT00456521,LEAD,"Orexigen Therapeutics, Inc",INDUSTRY
+NCT06366464,LEAD,"Harmony Biosciences Management, Inc.",INDUSTRY
+NCT07668401,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00528164,LEAD,University of Tennessee,OTHER
+NCT00528164,COLLABORATOR,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),NIH
+NCT03085394,LEAD,Sheba Medical Center,OTHER_GOV
+NCT05819853,LEAD,"University of Colorado, Denver",OTHER
+NCT05819853,COLLABORATOR,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),NIH
+NCT03693430,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07469800,LEAD,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY
+NCT01272219,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT03961360,LEAD,"The University of Texas Health Science Center, Houston",OTHER
+NCT07351058,LEAD,Hoffmann-La Roche,INDUSTRY
+NCT05935826,LEAD,"University of Colorado, Denver",OTHER
+NCT05935826,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00696228,LEAD,Vanderbilt University,OTHER
+NCT00696228,COLLABORATOR,Robert C. Atkins Foundation,OTHER
+NCT07493057,LEAD,Gan & Lee Pharmaceuticals.,INDUSTRY
+NCT00687739,LEAD,"University of Colorado, Denver",OTHER
+NCT00687739,COLLABORATOR,National Institute on Aging (NIA),NIH
+NCT06948422,LEAD,Eli Lilly and Company,INDUSTRY
+NCT07667803,LEAD,AstraZeneca,INDUSTRY
+NCT07709910,LEAD,"Fujian Shengdi Pharmaceutical Co., Ltd.",INDUSTRY
+NCT07622810,LEAD,Carnot Laboratories,INDUSTRY
+NCT00454610,LEAD,Baylor College of Medicine,OTHER
+NCT05488288,LEAD,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT03414762,LEAD,Northwell Health,OTHER
+NCT00941382,LEAD,Laboratorios Silanes S.A. de C.V.,INDUSTRY
+NCT01872182,LEAD,Hanmi Pharmaceutical Company Limited,INDUSTRY
+NCT01766791,LEAD,University of Erlangen-Nürnberg Medical School,OTHER
+NCT01766791,COLLABORATOR,Klinikum Nürnberg,OTHER
+NCT07021937,LEAD,"University of Colorado, Denver",OTHER
+NCT07021937,COLLABORATOR,University of Minnesota,OTHER
+NCT07021937,COLLABORATOR,The Metis Foundation,OTHER
+NCT00236639,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT06496100,LEAD,"Coordinación de Investigación en Salud, Mexico",OTHER_GOV
+NCT01279499,LEAD,University of Patras,OTHER
+NCT00289705,LEAD,Göteborg University,OTHER
+NCT05316467,LEAD,Xiaojun Chen,OTHER
+NCT06987695,LEAD,Amgen,INDUSTRY
+NCT03968224,LEAD,Centro Medico Nacional Siglo XXI IMSS,OTHER
+NCT00532779,LEAD,"Orexigen Therapeutics, Inc",INDUSTRY
+NCT07220759,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00092859,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT03650582,LEAD,"University Health Network, Toronto",OTHER
+NCT00994513,LEAD,Augusta University,OTHER
+NCT00994513,COLLABORATOR,Xinjiang Medical University,OTHER
+NCT02857660,LEAD,University of Erlangen-Nürnberg Medical School,OTHER
+NCT02857660,COLLABORATOR,University of Erlangen-Nürnberg Institute of Medical Physics,UNKNOWN
+NCT02857660,COLLABORATOR,University of Erlangen-Nürnberg Institute of Biomedicine of Aging,UNKNOWN
+NCT06728124,LEAD,Gan & Lee Pharmaceuticals.,INDUSTRY
+NCT01812694,LEAD,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00458081,LEAD,Sanofi,INDUSTRY
+NCT07571005,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT06439277,LEAD,Eli Lilly and Company,INDUSTRY
+NCT07284875,LEAD,Kailera,INDUSTRY
+NCT02492698,LEAD,Yonsei University,OTHER
+NCT07035093,LEAD,Eli Lilly and Company,INDUSTRY
+NCT05872620,LEAD,Eli Lilly and Company,INDUSTRY
+NCT01180101,LEAD,The Cleveland Clinic,OTHER
+NCT00796367,LEAD,VIVUS LLC,INDUSTRY
+NCT00796367,COLLABORATOR,"Medpace, Inc.",INDUSTRY
+NCT02896192,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT03924193,LEAD,Yale University,OTHER
+NCT03924193,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00444964,LEAD,Children's Mercy Hospital Kansas City,OTHER
+NCT00612599,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07575399,LEAD,Amgen,INDUSTRY
+NCT03986008,LEAD,Xiangya Hospital of Central South University,OTHER
+NCT07481630,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT03918564,LEAD,ReShape Lifesciences,INDUSTRY
+NCT06934655,LEAD,Children's Hospital Los Angeles,OTHER
+NCT06937099,LEAD,Eli Lilly and Company,INDUSTRY
+NCT01944098,LEAD,University of South Florida,OTHER
+NCT07668414,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT04657016,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00856609,LEAD,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00799643,LEAD,Joslin Diabetes Center,OTHER
+NCT00799643,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00283816,LEAD,University of Rochester,OTHER
+NCT06047548,LEAD,Eli Lilly and Company,INDUSTRY
+NCT07292441,LEAD,Gan & Lee Pharmaceuticals.,INDUSTRY
+NCT03047005,LEAD,Yale University,OTHER
+NCT03047005,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT07150975,LEAD,Gan & Lee Pharmaceuticals.,INDUSTRY
+NCT03552757,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00661245,LEAD,"Satiety, Inc.",INDUSTRY
+NCT06672939,LEAD,Eli Lilly and Company,INDUSTRY
+NCT02514629,LEAD,Fundación Pública Andaluza para la Investigación de Málaga en Biomedicina y Salud,OTHER
+NCT06423729,LEAD,Tanta University,OTHER
+NCT00414167,LEAD,Yale University,OTHER
+NCT00414167,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT06839664,LEAD,"Jiangsu Hansoh Pharmaceutical Co., Ltd.",INDUSTRY
+NCT06077864,LEAD,Boehringer Ingelheim,INDUSTRY
+NCT00942097,LEAD,Edgard Costa de Vilhena,OTHER
+NCT00942097,COLLABORATOR,Amparo Maternal Maternidade Social,OTHER
+NCT07153471,LEAD,Eli Lilly and Company,INDUSTRY
+NCT01858948,LEAD,University of Cincinnati,OTHER
+NCT01858948,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT03671733,LEAD,Xiangya Hospital of Central South University,OTHER
+NCT07202884,LEAD,Eli Lilly and Company,INDUSTRY
+NCT01233349,LEAD,InQpharm Group,INDUSTRY
+NCT01768481,LEAD,Université de Montréal,OTHER
+NCT01768481,COLLABORATOR,Pfizer,INDUSTRY
+NCT04184622,LEAD,Eli Lilly and Company,INDUSTRY
+NCT06828861,LEAD,"Aardvark Therapeutics, Inc.",INDUSTRY
+NCT01570829,LEAD,Materia Medica Holding,INDUSTRY
+NCT00933647,LEAD,Instituto de Cardiologia do Rio Grande do Sul,OTHER
+NCT05157698,LEAD,Yale University,OTHER
+NCT05157698,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT00000515,LEAD,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT02235519,LEAD,Hospital General de México Dr. Eduardo Liceaga,OTHER_GOV
+NCT06858839,LEAD,Amgen,INDUSTRY
+NCT02129608,LEAD,Mayo Clinic,OTHER
+NCT03548935,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT02742688,LEAD,Hanyang University,OTHER
+NCT07400653,LEAD,Pfizer,INDUSTRY
+NCT00175305,LEAD,University of British Columbia,OTHER
+NCT06164873,LEAD,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY
+NCT05298085,LEAD,"University Hospital, Toulouse",OTHER
+NCT07392190,LEAD,Eli Lilly and Company,INDUSTRY
+NCT03905018,LEAD,"Centro Universitario de Ciencias de la Salud, Mexico",OTHER
+NCT05701774,LEAD,"Soleno Therapeutics, Inc.",INDUSTRY
+NCT02122874,LEAD,Hospital General Universitario Elche,OTHER
+NCT03229057,LEAD,Anuja Dokras,OTHER
+NCT03229057,COLLABORATOR,Milton S. Hershey Medical Center,OTHER
+NCT03229057,COLLABORATOR,National Institutes of Health (NIH),NIH
+NCT03229057,COLLABORATOR,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),NIH
+NCT06704581,LEAD,BrightGene New Bio-Medical Technology(Wuxi) Co.Ltd.,INDUSTRY
+NCT07533175,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT05774756,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT00307619,LEAD,Janssen-Cilag Farmaceutica Ltda.,INDUSTRY
+NCT07274137,LEAD,MindRank AI Ltd,INDUSTRY
+NCT02043054,LEAD,University of Leicester,OTHER
+NCT02043054,COLLABORATOR,Novo Nordisk A/S,INDUSTRY
+NCT02043054,COLLABORATOR,"University Hospitals, Leicester",OTHER
+NCT06649045,LEAD,Eli Lilly and Company,INDUSTRY
+NCT02081898,LEAD,Yonsei University,OTHER
+NCT03548987,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07230119,LEAD,"Beijing QL Biopharmaceutical Co.,Ltd",INDUSTRY
+NCT05556512,LEAD,Eli Lilly and Company,INDUSTRY
+NCT02214108,LEAD,Centro Pediatrico Albina de Patino,OTHER
+NCT02214108,COLLABORATOR,University of Chile,OTHER
+NCT00434525,LEAD,North Texas Veterans Healthcare System,FED
+NCT05316935,LEAD,Xiaojun Chen,OTHER
+NCT02048215,LEAD,Istituto Auxologico Italiano,OTHER
+NCT02048215,COLLABORATOR,University of Milan,OTHER
+NCT02048215,COLLABORATOR,Università Politecnica delle Marche,OTHER
+NCT04599504,LEAD,Yale University,OTHER
+NCT04599504,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT02804373,LEAD,"University Hospital, Toulouse",OTHER
+NCT00398060,LEAD,Finnish Institute for Health and Welfare,OTHER_GOV
+NCT00398060,COLLABORATOR,Academy of Finland,OTHER
+NCT06859268,LEAD,Eli Lilly and Company,INDUSTRY
+NCT04651361,LEAD,E-DA Hospital,OTHER
+NCT03115424,LEAD,Mayo Clinic,OTHER
+NCT03115424,COLLABORATOR,Novo Nordisk A/S,INDUSTRY
+NCT00420589,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT01027143,LEAD,Nemours Children's Clinic,OTHER
+NCT01027143,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01027143,COLLABORATOR,Office of Dietary Supplements (ODS),NIH
+NCT05073835,LEAD,"University College, London",OTHER
+NCT05930184,LEAD,Khon Kaen University,OTHER
+NCT00408148,LEAD,Sanofi,INDUSTRY
+NCT06162715,LEAD,Vanderbilt University Medical Center,OTHER
+NCT02036138,LEAD,Hadassah Medical Organization,OTHER
+NCT00146133,LEAD,Washington University School of Medicine,OTHER
+NCT00030238,LEAD,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD),NIH
+NCT00030238,COLLABORATOR,Office of Dietary Supplements (ODS),NIH
+NCT00405808,LEAD,Sanofi,INDUSTRY
+NCT06616961,LEAD,Popular Medical College Hospital,OTHER
+NCT06616961,COLLABORATOR,"Pi Research and Development Center, Bangladesh",UNKNOWN
+NCT06616961,COLLABORATOR,Incepta Pharmaceuticals Ltd,INDUSTRY
+NCT02179151,LEAD,"Zafgen, Inc.",INDUSTRY
+NCT06604624,LEAD,"CSPC Baike (Shandong) Biopharmaceutical Co., Ltd.",INDUSTRY
+NCT03714373,LEAD,"Soleno Therapeutics, Inc.",INDUSTRY
+NCT07654361,LEAD,"Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",INDUSTRY
+NCT07353931,LEAD,Eli Lilly and Company,INDUSTRY
+NCT03336086,LEAD,Shiraz University of Medical Sciences,OTHER
+NCT03336086,COLLABORATOR,Mashhad University of Medical Sciences,OTHER
+NCT06388187,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07192263,LEAD,HK inno.N Corporation,INDUSTRY
+NCT02223949,LEAD,Hillel Yaffe Medical Center,OTHER_GOV
+NCT04576975,LEAD,Ain Shams University,OTHER
+NCT04576975,COLLABORATOR,"Ministry of Health, Kuwait",OTHER_GOV
+NCT06131437,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT03872245,LEAD,Hospital General Universitario Elche,OTHER
+NCT04104321,LEAD,"Galmed Research and Development, Ltd.",INDUSTRY
+NCT01306214,LEAD,Boehringer Ingelheim,INDUSTRY
+NCT01306214,COLLABORATOR,Eli Lilly and Company,INDUSTRY
+NCT06993792,LEAD,Eli Lilly and Company,INDUSTRY
+NCT06596135,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT03433040,LEAD,University of South Florida,OTHER
+NCT03433040,COLLABORATOR,Washington University School of Medicine,OTHER
+NCT00392678,LEAD,Joslin Diabetes Center,OTHER
+NCT00392678,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT02675699,LEAD,University of Leeds,OTHER
+NCT02137330,LEAD,Bambino Gesù Hospital and Research Institute,OTHER
+NCT01277367,LEAD,University of Pennsylvania,OTHER
+NCT00940628,LEAD,Hoffmann-La Roche,INDUSTRY
+NCT06921486,LEAD,"Shanghai Yinnuo Pharmaceutical Technology Co., Ltd.",OTHER
+NCT00647595,LEAD,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT06584916,LEAD,Eli Lilly and Company,INDUSTRY
+NCT01487993,LEAD,St. Antonius Hospital,OTHER
+NCT01487993,COLLABORATOR,Jeroen Bosch Ziekenhuis,OTHER
+NCT06662383,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00306683,LEAD,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT00380445,LEAD,Novartis,INDUSTRY
+NCT00128336,LEAD,University of Otago,OTHER
+NCT00128336,COLLABORATOR,Edgar National Centre for Diabetes Research,OTHER
+NCT00317707,LEAD,Mario Negri Institute for Pharmacological Research,OTHER
+NCT04578652,LEAD,University of Alberta,OTHER
+NCT05316493,LEAD,Xiaojun Chen,OTHER
+NCT06390904,LEAD,Xiaojun Chen,OTHER
+NCT01044147,LEAD,University of Pittsburgh,OTHER
+NCT01044147,COLLABORATOR,Agency for Healthcare Research and Quality (AHRQ),FED
+NCT05931367,LEAD,Eli Lilly and Company,INDUSTRY
+NCT02273804,LEAD,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT02273804,COLLABORATOR,URC-CIC Paris Descartes Necker Cochin,OTHER
+NCT03211455,LEAD,"University Hospital, Caen",OTHER
+NCT00430742,LEAD,Merck Sharp & Dohme LLC,INDUSTRY
+NCT01451554,LEAD,Mayo Clinic,OTHER
+NCT00134199,LEAD,Pfizer,INDUSTRY
+NCT00231634,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT07232719,LEAD,Eli Lilly and Company,INDUSTRY
+NCT05780008,LEAD,Michigan State University,OTHER
+NCT05780008,COLLABORATOR,Michigan Health Endowment Fund,OTHER
+NCT06066515,LEAD,Boehringer Ingelheim,INDUSTRY
+NCT06909006,LEAD,Nordsjaellands Hospital,OTHER
+NCT06909006,COLLABORATOR,Steno Diabetes Center Copenhagen,OTHER
+NCT06909006,COLLABORATOR,Steno Diabetes Center Odense,OTHER
+NCT06909006,COLLABORATOR,Zealand University Hospital,OTHER
+NCT06909006,COLLABORATOR,Aarhus University Hospital,OTHER
+NCT05514535,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT06905626,LEAD,University of Minnesota,OTHER
+NCT01535014,LEAD,Materia Medica Holding,INDUSTRY
+NCT01234649,LEAD,Woman's,OTHER
+NCT01234649,COLLABORATOR,Novo Nordisk A/S,INDUSTRY
+NCT02750826,LEAD,Alliance for Clinical Trials in Oncology,OTHER
+NCT02750826,COLLABORATOR,National Cancer Institute (NCI),NIH
+NCT02750826,COLLABORATOR,Division of Cancer Control,UNKNOWN
+NCT02750826,COLLABORATOR,"NIH Biomarker, Imaging and Quality of Life Studies Funding Program (BIQSFP)",UNKNOWN
+NCT02750826,COLLABORATOR,Canadian Cancer Trials Group,NETWORK
+NCT03811574,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00447291,LEAD,Children's Heart Center,INDUSTRY
+NCT00447291,COLLABORATOR,"Zone Laboratories, Inc.",INDUSTRY
+NCT02098317,LEAD,Bambino Gesù Hospital and Research Institute,OTHER
+NCT00239967,LEAD,Sanofi,INDUSTRY
+NCT05646199,LEAD,University of Hull,OTHER
+NCT05816798,LEAD,University of Nove de Julho,OTHER
+NCT05816798,COLLABORATOR,Universidade Federal de Goias,OTHER
+NCT05638893,LEAD,Tanta University,OTHER
+NCT00236665,LEAD,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY
+NCT00147264,LEAD,McMaster University,OTHER
+NCT00147264,COLLABORATOR,Boehringer Ingelheim,INDUSTRY
+NCT00147264,COLLABORATOR,Canadian Institutes of Health Research (CIHR),OTHER_GOV
+NCT00147264,COLLABORATOR,Heart and Stroke Foundation of Canada,OTHER
+NCT00147264,COLLABORATOR,Medtronic,INDUSTRY
+NCT01264393,LEAD,The Miriam Hospital,OTHER
+NCT01264393,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT07481747,LEAD,Hudson Biotech,INDUSTRY
+NCT01763528,LEAD,Isfahan University of Medical Sciences,OTHER
+NCT01320722,LEAD,Brigham and Women's Hospital,OTHER
+NCT01320722,COLLABORATOR,"National Heart, Lung, and Blood Institute (NHLBI)",NIH
+NCT01030354,LEAD,"University of California, Los Angeles",OTHER
+NCT01030354,COLLABORATOR,National Institutes of Health (NIH),NIH
+NCT01030354,COLLABORATOR,"Herbalife International of America, Inc.",INDUSTRY
+NCT02143349,LEAD,Olive Lifesciences Pvt Ltd,INDUSTRY
+NCT02143349,COLLABORATOR,"College of Health and Biomedicine, Victoria University",UNKNOWN
+NCT05653258,LEAD,Cedars-Sinai Medical Center,OTHER
+NCT05653258,COLLABORATOR,National Institute on Aging (NIA),NIH
+NCT03758638,LEAD,Washington University School of Medicine,OTHER
+NCT06994650,LEAD,"Fujian Shengdi Pharmaceutical Co., Ltd.",INDUSTRY
+NCT05032326,LEAD,"University Hospital, Toulouse",OTHER
+NCT02077517,LEAD,Hospital Universitario Virgen de la Arrixaca,OTHER
+NCT02478580,LEAD,University of Texas Southwestern Medical Center,OTHER
+NCT01344161,LEAD,Tehran University of Medical Sciences,OTHER
+NCT01344161,COLLABORATOR,Shahid Beheshti University of Medical Sciences,OTHER
+NCT00394212,LEAD,C. R. Bard,INDUSTRY
+NCT02840916,LEAD,Chang Gung Memorial Hospital,OTHER
+NCT04605081,LEAD,Yale University,OTHER
+NCT04605081,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT07104500,LEAD,"Viking Therapeutics, Inc.",INDUSTRY
+NCT02042664,LEAD,Assistance Publique Hopitaux De Marseille,OTHER
+NCT01568437,LEAD,"University Health Network, Toronto",OTHER
+NCT05384431,LEAD,Exerkine Corporation,INDUSTRY
+NCT05384431,COLLABORATOR,University of Waterloo,OTHER
+NCT06633783,LEAD,"Hangzhou Jiuyuan Gene Engineering Co. Ltd.,",INDUSTRY
+NCT03554031,LEAD,"Changchun GeneScience Pharmaceutical Co., Ltd.",INDUSTRY
+NCT03554031,COLLABORATOR,Children's Hospital of Fudan University,OTHER
+NCT03554031,COLLABORATOR,Huazhong University of Science and Technology,OTHER
+NCT03554031,COLLABORATOR,Beijing Children's Hospital,OTHER
+NCT03554031,COLLABORATOR,Peking University First Hospital,OTHER
+NCT03554031,COLLABORATOR,Peking Union Medical College Hospital,OTHER
+NCT03554031,COLLABORATOR,The Children's Hospital of Zhejiang University School of Medicine,OTHER
+NCT03746522,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT00779207,LEAD,Washington University School of Medicine,OTHER
+NCT05172999,LEAD,Fudan University,OTHER
+NCT02216552,LEAD,University of Manitoba,OTHER
+NCT02216552,COLLABORATOR,dsm-firmenich Switzerland AG,INDUSTRY
+NCT00197132,LEAD,GlaxoSmithKline,INDUSTRY
+NCT00302263,LEAD,University of Copenhagen,OTHER
+NCT00302263,COLLABORATOR,Metabolife,INDUSTRY
+NCT02681887,LEAD,Brigham and Women's Hospital,OTHER
+NCT00412698,LEAD,Sanofi,INDUSTRY
+NCT06066528,LEAD,Boehringer Ingelheim,INDUSTRY
+NCT05516953,LEAD,Tanta University,OTHER
+NCT01560130,LEAD,The Miriam Hospital,OTHER
+NCT01560130,COLLABORATOR,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),NIH
+NCT01068626,LEAD,Göteborg University,OTHER
+NCT01068626,COLLABORATOR,Sahlgrenska University Hospital,OTHER
+NCT01552694,LEAD,Washington University School of Medicine,OTHER
+NCT00108459,LEAD,US Department of Veterans Affairs,FED
+NCT06588283,LEAD,Eli Lilly and Company,INDUSTRY
+NCT05929066,LEAD,Eli Lilly and Company,INDUSTRY
+NCT00302276,LEAD,University of Copenhagen,OTHER
+NCT05387798,LEAD,"Radius Pharmaceuticals, Inc.",INDUSTRY
+NCT00289887,LEAD,Organon and Co,INDUSTRY
+NCT07654374,LEAD,"Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",INDUSTRY
+NCT01113996,LEAD,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT01774682,LEAD,"Centre Hospitalier Universitaire, Amiens",OTHER
+NCT04775082,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT07297290,LEAD,University Of Nigeria Teaching Hospital,NETWORK
+NCT07297290,COLLABORATOR,Cures Within Reach,OTHER
+NCT05632068,LEAD,Chang Gung Memorial Hospital,OTHER
+NCT06672549,LEAD,Eli Lilly and Company,INDUSTRY
+NCT02116517,LEAD,National Yang Ming Chiao Tung University,OTHER
+NCT02116517,COLLABORATOR,Taipei City Hospital,OTHER_GOV
+NCT06041217,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT00228176,LEAD,Sanofi,INDUSTRY
+NCT00408850,LEAD,Baker Heart Research Institute,OTHER
+NCT00408850,COLLABORATOR,"National Heart Foundation, Australia",OTHER
+NCT06144645,LEAD,Foundation for Prader-Willi Research,OTHER
+NCT06144645,COLLABORATOR,RTI International,OTHER
+NCT00393172,LEAD,University of Minnesota,OTHER
+NCT00393172,COLLABORATOR,National Cancer Institute (NCI),NIH
+NCT03771326,LEAD,Quaid-e-Azam University,OTHER
+NCT05813925,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT01010789,LEAD,Lindner Center of HOPE,OTHER
+NCT01010789,COLLABORATOR,Cephalon,INDUSTRY
+NCT01010789,COLLABORATOR,University of Cincinnati,OTHER
+NCT00396448,LEAD,Pfizer,INDUSTRY
+NCT00434655,LEAD,North Texas Veterans Healthcare System,FED
+NCT02664441,LEAD,Seattle Children's Hospital,OTHER
+NCT02664441,COLLABORATOR,Children's Hospitals and Clinics of Minnesota,OTHER
+NCT02664441,COLLABORATOR,Vanderbilt University,OTHER
+NCT04510493,LEAD,"University Hospital, Basel, Switzerland",OTHER
+NCT04510493,COLLABORATOR,Novartis,INDUSTRY
+NCT04510493,COLLABORATOR,Swiss National Science Foundation,OTHER
+NCT06931028,LEAD,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY
+NCT03649477,LEAD,"Levo Therapeutics, Inc.",INDUSTRY
+NCT06176365,LEAD,Boehringer Ingelheim,INDUSTRY
+NCT05098509,LEAD,"Radius Pharmaceuticals, Inc.",INDUSTRY
+NCT00209482,LEAD,Glaser Pediatric Research Network,NETWORK
+NCT00209482,COLLABORATOR,Elizabeth Glaser Pediatric AIDS Foundation,OTHER
+NCT05890976,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT02721953,LEAD,Federico II University,OTHER
+NCT02810483,LEAD,Assistance Publique - Hôpitaux de Paris,OTHER
+NCT06918405,LEAD,Chittagong Medical College,OTHER
+NCT01326442,LEAD,University of Guelph,OTHER
+NCT06974851,LEAD,"Fujian Shengdi Pharmaceutical Co., Ltd.",INDUSTRY
+NCT07332273,LEAD,Fundación Pública Andaluza para la Investigación de Málaga en Biomedicina y Salud,OTHER
+NCT07255209,LEAD,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY
+NCT04998136,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT06489457,LEAD,University Medical Centre Ljubljana,OTHER
+NCT06396429,LEAD,"Fujian Shengdi Pharmaceutical Co., Ltd.",INDUSTRY
+NCT05607680,LEAD,Innovent Biologics (Suzhou) Co. Ltd.,INDUSTRY
+NCT01332877,LEAD,Wolfson Medical Center,OTHER_GOV
+NCT00438061,LEAD,The University of Western Australia,OTHER
+NCT06760546,LEAD,"Rhythm Pharmaceuticals, Inc.",INDUSTRY
+NCT00277641,LEAD,Lindner Center of HOPE,OTHER
+NCT00277641,COLLABORATOR,GlaxoSmithKline,INDUSTRY
+NCT00277641,COLLABORATOR,University of Cincinnati,OTHER
+NCT03842501,LEAD,Golo,INDUSTRY
+NCT07011667,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT02525016,LEAD,Hospices Civils de Lyon,OTHER
+NCT03554525,LEAD,Instituto de Investigación Hospital Universitario La Paz,OTHER
+NCT01886482,LEAD,Isfahan University of Medical Sciences,OTHER
+NCT02751840,LEAD,Tel Hai College,OTHER
+NCT03837626,LEAD,University of Missouri-Columbia,OTHER
+NCT01131390,LEAD,Bridgeport Hospital,OTHER
+NCT01358890,LEAD,Chinese Academy of Sciences,OTHER_GOV
+NCT01358890,COLLABORATOR,Harvard School of Public Health (HSPH),OTHER
+NCT01465724,LEAD,UMC Utrecht,OTHER
+NCT07351045,LEAD,Hoffmann-La Roche,INDUSTRY
+NCT00781547,LEAD,Göteborg University,OTHER
+NCT00781547,COLLABORATOR,Pfizer,INDUSTRY
+NCT02213159,LEAD,American University of Beirut Medical Center,OTHER
+NCT07284979,LEAD,Kailera,INDUSTRY
+NCT07279194,LEAD,"Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",INDUSTRY
+NCT01794429,LEAD,Bjorn H. Ebdrup,OTHER
+NCT01388205,LEAD,National University of Singapore,OTHER
+NCT02718950,LEAD,"University of Campinas, Brazil",OTHER
+NCT03042741,LEAD,Immunitor LLC,INDUSTRY
+NCT03042741,COLLABORATOR,"Federal State Budget Institution Research Center for Obstetrics, Gynecology and Perinatology Ministry of Healthcare",OTHER_GOV
+NCT02963922,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT03374956,LEAD,Mayo Clinic,OTHER
+NCT00166205,LEAD,Ethicon Endo-Surgery,INDUSTRY
+NCT07718126,LEAD,West China Hospital,OTHER
+NCT07718126,COLLABORATOR,Beijing Friendship Hospital,OTHER
+NCT07718126,COLLABORATOR,Anhui Provincial Hospital,OTHER_GOV
+NCT07718126,COLLABORATOR,The Second Affiliated Hospital of Chongqing Medical University,OTHER
+NCT07718126,COLLABORATOR,First Affiliated Hospital of Chongqing Medical University,OTHER
+NCT05444153,LEAD,Novo Nordisk A/S,INDUSTRY
+NCT03541005,LEAD,Catalysis SL,INDUSTRY
+NCT01467284,LEAD,"University of Massachusetts, Worcester",OTHER
+NCT00375492,LEAD,AstraZeneca,INDUSTRY
+NCT00375492,COLLABORATOR,Eli Lilly and Company,INDUSTRY
+NCT00628277,LEAD,University of Vermont,OTHER

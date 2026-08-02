@@ -1,0 +1,13 @@
+{
+  "generated_at_utc": "2026-07-31T21:08:34.800670+00:00",
+  "location_rows": 21636,
+  "mapped_location_rows": 21635,
+  "mapping_rate_pct": 100.0,
+  "unresolved_location_rows": 1,
+  "unresolved_countries": {
+    "Serbia and Montenegro": 1
+  },
+  "world_bank_countries": 217,
+  "who_rows": 588,
+  "who_country_codes": 196
+}

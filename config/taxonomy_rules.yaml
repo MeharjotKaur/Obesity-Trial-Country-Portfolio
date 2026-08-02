@@ -1,0 +1,87 @@
+version: "1.0.0"
+purpose: "Rule-based preliminary competitor screen for adult obesity pharmacotherapy trials"
+exclude_intervention_terms:
+  - surgery
+  - surgical
+  - bariatric
+  - behavioral
+  - behavioural
+  - lifestyle
+  - diet
+  - exercise
+  - device
+  - counseling
+exclude_title_terms:
+  - bariatric surgery
+  - gastric bypass
+  - anaesthetic
+  - anesthetic
+  - neuromuscular blockade
+  - laryngeal mask
+  - acid reflux
+  - osteoarthritis in obese
+  - obese patients with knee osteoarthritis
+  - antiretroviral
+  - vasodilatation
+  - endothelial function
+  - lipoprotein metabolism
+  - polycystic ovary syndrome
+  - pcos
+therapeutic_intent_terms:
+  - weight loss
+  - weight reduction
+  - weight management
+  - weight regain
+  - maintain their weight loss
+  - maintenance of weight
+  - obesity pharmacotherapy
+  - treatment of obesity
+  - treating obesity
+  - anti-obesity
+  - excess body weight
+  - overweight or obesity
+  - overweight and obesity
+  - overweight or obese
+  - overweight and obese
+  - participants with obesity
+  - participants living with obesity
+  - people living with overweight
+  - subjects with overweight
+  - adults with overweight
+known_obesity_therapy_terms:
+  - semaglutide
+  - liraglutide
+  - tirzepatide
+  - retatrutide
+  - orforglipron
+  - orlistat
+  - naltrexone
+  - bupropion
+  - phentermine
+  - topiramate
+  - setmelanotide
+  - maridebart cafraglutide
+  - ribupatide
+  - efsubaglutide
+  - benaglutide
+  - hrs9531
+  - bgm0504
+  - ibi362
+exclude_primary_condition_terms:
+  - type 1 diabetes
+  - type 2 diabetes
+  - diabetes mellitus
+oral_terms:
+  - oral
+  - tablet
+  - capsule
+  - pill
+injectable_terms:
+  - injection
+  - injectable
+  - subcutaneous
+review_triggers:
+  - mixed modality
+  - missing locations
+  - ambiguous diabetes overlap
+  - missing minimum age

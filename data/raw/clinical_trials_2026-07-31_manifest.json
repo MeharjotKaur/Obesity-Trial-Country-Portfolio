@@ -1,0 +1,16 @@
+{
+  "source": "https://clinicaltrials.gov/api/v2/studies",
+  "query": {
+    "query.cond": "Obesity",
+    "filter.advanced": "AREA[Phase]PHASE3 AND AREA[StudyType]INTERVENTIONAL",
+    "pageSize": 100,
+    "countTotal": "true",
+    "format": "json"
+  },
+  "retrieved_at_utc": "2026-07-31T16:38:36.015281+00:00",
+  "pages": 8,
+  "record_count": 717,
+  "unique_nct_ids": 717,
+  "sha256": "7d2a43dcea4574a69bc3b7b59f34f8771078830b1a195c4fc42e0e75a52d4203",
+  "project_version": "1.0.0"
+}

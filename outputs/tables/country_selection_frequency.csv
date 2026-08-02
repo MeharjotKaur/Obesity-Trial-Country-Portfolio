@@ -1,0 +1,46 @@
+iso3,country_name,region,selection_count,selection_frequency_pct
+BRA,Brazil,Latin America & Caribbean,2000,100.0
+CHN,China,East Asia & Pacific,2000,100.0
+IND,India,South Asia,2000,100.0
+USA,United States,North America,2000,100.0
+MEX,Mexico,Latin America & Caribbean,1721,86.05
+RUS,Russian Federation,Europe & Central Asia,279,13.95
+ARG,Argentina,Latin America & Caribbean,0,0.0
+AUS,Australia,East Asia & Pacific,0,0.0
+AUT,Austria,Europe & Central Asia,0,0.0
+BEL,Belgium,Europe & Central Asia,0,0.0
+BGR,Bulgaria,Europe & Central Asia,0,0.0
+CAN,Canada,North America,0,0.0
+CHL,Chile,Latin America & Caribbean,0,0.0
+COL,Colombia,Latin America & Caribbean,0,0.0
+CZE,Czechia,Europe & Central Asia,0,0.0
+DNK,Denmark,Europe & Central Asia,0,0.0
+FIN,Finland,Europe & Central Asia,0,0.0
+FRA,France,Europe & Central Asia,0,0.0
+DEU,Germany,Europe & Central Asia,0,0.0
+GRC,Greece,Europe & Central Asia,0,0.0
+HUN,Hungary,Europe & Central Asia,0,0.0
+ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",0,0.0
+ITA,Italy,Europe & Central Asia,0,0.0
+JPN,Japan,East Asia & Pacific,0,0.0
+KOR,"Korea, Rep.",East Asia & Pacific,0,0.0
+MYS,Malaysia,East Asia & Pacific,0,0.0
+NLD,Netherlands,Europe & Central Asia,0,0.0
+NZL,New Zealand,East Asia & Pacific,0,0.0
+NOR,Norway,Europe & Central Asia,0,0.0
+POL,Poland,Europe & Central Asia,0,0.0
+PRT,Portugal,Europe & Central Asia,0,0.0
+PRI,Puerto Rico (US),Latin America & Caribbean,0,0.0
+ROU,Romania,Europe & Central Asia,0,0.0
+SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",0,0.0
+SRB,Serbia,Europe & Central Asia,0,0.0
+SGP,Singapore,East Asia & Pacific,0,0.0
+SVK,Slovak Republic,Europe & Central Asia,0,0.0
+ZAF,South Africa,Sub-Saharan Africa,0,0.0
+ESP,Spain,Europe & Central Asia,0,0.0
+SWE,Sweden,Europe & Central Asia,0,0.0
+CHE,Switzerland,Europe & Central Asia,0,0.0
+THA,Thailand,East Asia & Pacific,0,0.0
+TUR,Turkiye,Europe & Central Asia,0,0.0
+UKR,Ukraine,Europe & Central Asia,0,0.0
+GBR,United Kingdom,Europe & Central Asia,0,0.0

@@ -1,0 +1,325 @@
+{
+  "clinicaltrials_gov": {
+    "query_total_count": 713,
+    "records_downloaded": 713,
+    "field_completeness": {
+      "nct_id": {
+        "present": 713,
+        "missing": 0,
+        "pct_present": 100.0
+      },
+      "status": {
+        "present": 713,
+        "missing": 0,
+        "pct_present": 100.0
+      },
+      "start_date": {
+        "present": 710,
+        "missing": 3,
+        "pct_present": 99.58
+      },
+      "completion_date": {
+        "present": 693,
+        "missing": 20,
+        "pct_present": 97.19
+      },
+      "enrollment": {
+        "present": 708,
+        "missing": 5,
+        "pct_present": 99.3
+      },
+      "sponsor": {
+        "present": 713,
+        "missing": 0,
+        "pct_present": 100.0
+      },
+      "interventions": {
+        "present": 713,
+        "missing": 0,
+        "pct_present": 100.0
+      },
+      "eligibility": {
+        "present": 713,
+        "missing": 0,
+        "pct_present": 100.0
+      },
+      "locations": {
+        "present": 644,
+        "missing": 69,
+        "pct_present": 90.32
+      }
+    },
+    "unique_location_countries": 74,
+    "trials_with_multiple_countries": 170,
+    "top_location_countries": [
+      [
+        "United States",
+        344
+      ],
+      [
+        "Canada",
+        104
+      ],
+      [
+        "China",
+        100
+      ],
+      [
+        "Germany",
+        91
+      ],
+      [
+        "Spain",
+        83
+      ],
+      [
+        "United Kingdom",
+        82
+      ],
+      [
+        "France",
+        69
+      ],
+      [
+        "Australia",
+        61
+      ],
+      [
+        "Poland",
+        58
+      ],
+      [
+        "Argentina",
+        58
+      ],
+      [
+        "Japan",
+        57
+      ],
+      [
+        "Mexico",
+        57
+      ],
+      [
+        "Italy",
+        56
+      ],
+      [
+        "Puerto Rico",
+        55
+      ],
+      [
+        "Brazil",
+        51
+      ],
+      [
+        "Czechia",
+        47
+      ],
+      [
+        "Denmark",
+        44
+      ],
+      [
+        "South Korea",
+        44
+      ],
+      [
+        "Taiwan",
+        42
+      ],
+      [
+        "Netherlands",
+        42
+      ],
+      [
+        "India",
+        38
+      ],
+      [
+        "Belgium",
+        37
+      ],
+      [
+        "Hungary",
+        33
+      ],
+      [
+        "Greece",
+        32
+      ],
+      [
+        "Israel",
+        31
+      ]
+    ],
+    "status_counts": [
+      [
+        "COMPLETED",
+        404
+      ],
+      [
+        "RECRUITING",
+        80
+      ],
+      [
+        "UNKNOWN",
+        74
+      ],
+      [
+        "ACTIVE_NOT_RECRUITING",
+        55
+      ],
+      [
+        "TERMINATED",
+        49
+      ],
+      [
+        "NOT_YET_RECRUITING",
+        29
+      ],
+      [
+        "WITHDRAWN",
+        18
+      ],
+      [
+        "ENROLLING_BY_INVITATION",
+        2
+      ],
+      [
+        "SUSPENDED",
+        2
+      ]
+    ],
+    "unique_sponsors": 325,
+    "top_sponsors": [
+      [
+        "Novo Nordisk A/S",
+        61
+      ],
+      [
+        "Eli Lilly and Company",
+        50
+      ],
+      [
+        "Sanofi",
+        22
+      ],
+      [
+        "Yale University",
+        14
+      ],
+      [
+        "Amgen",
+        10
+      ],
+      [
+        "Rhythm Pharmaceuticals, Inc.",
+        10
+      ],
+      [
+        "Pfizer",
+        9
+      ],
+      [
+        "Mayo Clinic",
+        8
+      ],
+      [
+        "Merck Sharp & Dohme LLC",
+        8
+      ],
+      [
+        "Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",
+        8
+      ],
+      [
+        "Boehringer Ingelheim",
+        7
+      ],
+      [
+        "Innovent Biologics (Suzhou) Co. Ltd.",
+        7
+      ],
+      [
+        "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)",
+        6
+      ],
+      [
+        "Fujian Shengdi Pharmaceutical Co., Ltd.",
+        6
+      ],
+      [
+        "Xiaojun Chen",
+        6
+      ]
+    ],
+    "enrollment_median": 150.0,
+    "enrollment_min": 0,
+    "enrollment_max": 18695,
+    "relevance_funnel": {
+      "all_phase3_obesity_interventional": 713,
+      "drug_or_biological": 512,
+      "not_exclusively_pediatric": 490,
+      "title_condition_not_diabetes": 364,
+      "core_started_2010_or_later": 281,
+      "core_location_records": 10862,
+      "core_unique_countries": 57,
+      "note": "This is a conservative audit funnel, not the final clinical taxonomy. Eligibility-text validation is required before analysis."
+    }
+  },
+  "external_sources": {
+    "ncd_risc": {
+      "rows": 13200,
+      "columns": [
+        "Year",
+        "Sex",
+        "Country/Region/World",
+        "ISO",
+        "Prevalence of BMI<18.5 kg/m\u00b2 (underweight)",
+        "Prevalence of BMI<18.5 kg/m\u00b2 (underweight) lower 95% uncertainty interval",
+        "Prevalence of BMI<18.5 kg/m\u00b2 (underweight) upper 95% uncertainty interval",
+        "Prevalence of BMI>=30 kg/m\u00b2 (obesity)",
+        "Prevalence of BMI>=30 kg/m\u00b2 (obesity) lower 95% uncertainty interval",
+        "Prevalence of BMI>=30 kg/m\u00b2 (obesity) upper 95% uncertainty interval",
+        "Combined prevalence of BMI<18.5 kg/m\u00b2 and BMI>=30 kg/m\u00b2 (double burden of underweight and obesity)",
+        "Combined prevalence of BMI<18.5 kg/m\u00b2 and BMI>=30 kg/m\u00b2 (double burden of underweight and obesity) lower 95% uncertainty interval",
+        "Combined prevalence of BMI<18.5 kg/m\u00b2 and BMI>=30 kg/m\u00b2 (double burden of underweight and obesity) upper 95% uncertainty interval",
+        "Proportion of double burden from obesity",
+        "Proportion of double burden from obesity lower 95% uncertainty interval",
+        "Proportion of double burden from obesity upper 95% uncertainty interval",
+        "Prevalence of BMI 18.5 kg/m\u00b2 to <20 kg/m\u00b2",
+        "Prevalence of BMI 18.5 kg/m\u00b2 to <20 kg/m\u00b2 lower 95% uncertainty interval",
+        "Prevalence of BMI 18.5 kg/m\u00b2 to <20 kg/m\u00b2 upper 95% uncertainty interval",
+        "Prevalence of BMI 20 kg/m\u00b2 to <25 kg/m\u00b2",
+        "Prevalence of BMI 20 kg/m\u00b2 to <25 kg/m\u00b2 lower 95% uncertainty interval",
+        "Prevalence of BMI 20 kg/m\u00b2 to <25 kg/m\u00b2 upper 95% uncertainty interval",
+        "Prevalence of BMI 25 kg/m\u00b2 to <30 kg/m\u00b2",
+        "Prevalence of BMI 25 kg/m\u00b2 to <30 kg/m\u00b2 lower 95% uncertainty interval",
+        "Prevalence of BMI 25 kg/m\u00b2 to <30 kg/m\u00b2 upper 95% uncertainty interval",
+        "Prevalence of BMI 30 kg/m\u00b2 to <35 kg/m\u00b2",
+        "Prevalence of BMI 30 kg/m\u00b2 to <35 kg/m\u00b2 lower 95% uncertainty interval",
+        "Prevalence of BMI 30 kg/m\u00b2 to <35 kg/m\u00b2 upper 95% uncertainty interval",
+        "Prevalence of BMI 35 kg/m\u00b2 to <40 kg/m\u00b2",
+        "Prevalence of BMI 35 kg/m\u00b2 to <40 kg/m\u00b2 lower 95% uncertainty interval",
+        "Prevalence of BMI 35 kg/m\u00b2 to <40 kg/m\u00b2 upper 95% uncertainty interval",
+        "Prevalence of BMI >=40 kg/m\u00b2 (morbid obesity)",
+        "Prevalence of BMI >=40 kg/m\u00b2 (morbid obesity) lower 95% uncertainty interval",
+        "Prevalence of BMI >=40 kg/m\u00b2 (morbid obesity) upper 95% uncertainty interval"
+      ]
+    },
+    "world_bank_population": {
+      "rows": 265,
+      "non_null_values": 264
+    },
+    "who_obesity": {
+      "rows": 630,
+      "countries": 210,
+      "sex_categories": [
+        "SEX_BTSX",
+        "SEX_FMLE",
+        "SEX_MLE"
+      ]
+    }
+  }
+}

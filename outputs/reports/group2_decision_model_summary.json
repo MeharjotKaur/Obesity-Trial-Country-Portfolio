@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-07-31T21:08:35.179430+00:00",
+  "group1_rule_included": 178,
+  "final_cohort_studies": 117,
+  "final_cohort_countries": 53,
+  "candidate_countries": 45,
+  "candidate_regions": 7,
+  "top_five_by_score": [
+    "United States",
+    "China",
+    "India",
+    "Brazil",
+    "Mexico"
+  ],
+  "screen_exclusion_counts": {
+    "PASSED": 45,
+    "INSUFFICIENT_STUDY_EVIDENCE": 5,
+    "INSUFFICIENT_FACILITY_EVIDENCE": 1,
+    "MISSING_OBESITY_PREVALENCE": 1,
+    "MISSING_POPULATION": 1
+  },
+  "guardrail": "Obese population is total-population x adult-obesity-prevalence proxy; it is not an eligible-patient estimate."
+}

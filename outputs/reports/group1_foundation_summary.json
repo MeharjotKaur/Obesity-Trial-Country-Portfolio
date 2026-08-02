@@ -1,0 +1,26 @@
+{
+  "generated_at_utc": "2026-07-31T21:08:34.552329+00:00",
+  "source_snapshot": "clinical_trials_2026-07-31.json",
+  "all_studies": 717,
+  "included_by_rules": 178,
+  "excluded_by_rules": 539,
+  "included_location_rows": 11509,
+  "included_countries": 55,
+  "review_required_in_included": 153,
+  "exclusion_reason_counts": {
+    "NO_DRUG_OR_BIOLOGICAL": 201,
+    "OUTSIDE_RECENCY_WINDOW": 205,
+    "DIABETES_PRIMARY_OVERLAP": 69,
+    "NO_OBESITY_TREATMENT_INTENT": 360,
+    "NON_PHARMACOLOGICAL_PRIMARY_INTENT": 141,
+    "EXCLUSIVELY_PEDIATRIC": 43,
+    "OFF_TARGET_THERAPEUTIC_INTENT": 62
+  },
+  "modality_counts_all_records": {
+    "UNKNOWN": 393,
+    "INJECTABLE": 143,
+    "ORAL": 174,
+    "MIXED_OR_AMBIGUOUS": 7
+  },
+  "warning": "Rule inclusion is preliminary until the manual audit sample is labelled."
+}

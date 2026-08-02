@@ -1,0 +1,19 @@
+project_version: "1.0.0"
+snapshot_date: "2026-07-31"
+clinical_trials:
+  endpoint: "https://clinicaltrials.gov/api/v2/studies"
+  query_condition: "Obesity"
+  advanced_filter: "AREA[Phase]PHASE3 AND AREA[StudyType]INTERVENTIONAL"
+  page_size: 100
+  timeout_seconds: 60
+  max_attempts: 4
+taxonomy:
+  minimum_start_year: 2010
+  allowed_intervention_types: [DRUG, BIOLOGICAL]
+  adult_minimum_age_years: 18
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  reports: outputs/reports
+

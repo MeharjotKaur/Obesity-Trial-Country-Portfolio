@@ -1,0 +1,6 @@
+removed_iso3,removed_country,status,alternative_portfolio,objective_loss
+MEX,Mexico,Optimal,United States | China | India | Brazil | Russian Federation,3.2294288235621025
+BRA,Brazil,Optimal,United States | China | India | Mexico | Russian Federation,5.5900369208753204
+IND,India,Optimal,United States | China | Brazil | Mexico | Russian Federation,9.010787506783174
+CHN,China,Optimal,United States | India | Brazil | Mexico | Russian Federation,12.135419796020926
+USA,United States,Optimal,China | India | Brazil | Mexico | Russian Federation,19.686701184222727

@@ -1,0 +1,15 @@
+aliases:
+  Egypt: EGY
+  Hong Kong: HKG
+  Iran: IRN
+  Martinique: MTQ
+  Puerto Rico: PRI
+  Reunion: REU
+  Russia: RUS
+  Slovakia: SVK
+  South Korea: KOR
+  Taiwan: TWN
+  Turkey (Türkiye): TUR
+unresolvable_historical_entities:
+  Serbia and Montenegro: "Historical entity without a single current ISO3 mapping"
+

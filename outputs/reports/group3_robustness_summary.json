@@ -1,0 +1,28 @@
+{
+  "generated_at_utc": "2026-07-31T21:08:56.604061+00:00",
+  "simulations": 2000,
+  "random_seed": 20260731,
+  "feasible_runs": 2000,
+  "infeasible_runs": 0,
+  "stable_core_80pct": [
+    "Brazil",
+    "China",
+    "India",
+    "United States",
+    "Mexico"
+  ],
+  "top_selection_frequencies": {
+    "Brazil": 100.0,
+    "China": 100.0,
+    "India": 100.0,
+    "United States": 100.0,
+    "Mexico": 86.05,
+    "Russian Federation": 13.95,
+    "Argentina": 0.0,
+    "Australia": 0.0,
+    "Austria": 0.0,
+    "Belgium": 0.0
+  },
+  "distinct_portfolios": 2,
+  "uncertainty_scope": "MCDA weights plus opportunity and infrastructure thresholds; source-data uncertainty is not modelled."
+}

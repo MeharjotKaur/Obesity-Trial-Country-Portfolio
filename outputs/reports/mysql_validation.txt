@@ -1,0 +1,36 @@
+MYSQL VALIDATION
+================
+
+MySQL version: 8.0.46
+
+Row-count reconciliation:
+- studies: database=717, csv=717 [PASS]
+- countries: database=220, csv=220 [PASS]
+- study_locations: database=21636, csv=21636 [PASS]
+- interventions: database=1542, csv=1542 [PASS]
+- study_conditions: database=1360, csv=1360 [PASS]
+- study_sponsors: database=1021, csv=1021 [PASS]
+- country_obesity: database=588, csv=588 [PASS]
+- country_features: database=45, csv=45 [PASS]
+- scenario_portfolios: database=20, csv=20 [PASS]
+- country_selection_frequency: database=45, csv=45 [PASS]
+
+Quality checks:
+- duplicate_nct_id: 0
+- orphan_locations: 0
+- unmapped_location_countries: 0
+- invalid_prevalence: 0
+- scenario_not_five_countries: 0
+- invalid_selection_frequency: 0
+Studies loaded: 717
+Screened candidate countries: 45
+Scenario rows: balanced=5, competition_averse=5, execution_readiness=5, patient_reach=5
+Top selection frequencies:
+- Brazil: 100.00%
+- China: 100.00%
+- India: 100.00%
+- United States: 100.00%
+- Mexico: 86.05%
+- Russian Federation: 13.95%
+
+STATUS: PASS

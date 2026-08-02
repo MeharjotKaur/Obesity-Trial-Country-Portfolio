@@ -1,0 +1,21 @@
+scenario,iso3,country_name,region,model_score
+balanced,USA,United States,North America,84.45611539010955
+balanced,CHN,China,East Asia & Pacific,76.90483400190776
+balanced,IND,India,South Asia,73.78020171266996
+balanced,BRA,Brazil,Latin America & Caribbean,70.35945112676212
+balanced,MEX,Mexico,Latin America & Caribbean,67.99884302944889
+patient_reach,USA,United States,North America,90.33672444948219
+patient_reach,CHN,China,East Asia & Pacific,83.50573095900685
+patient_reach,IND,India,South Asia,79.21781907669883
+patient_reach,BRA,Brazil,Latin America & Caribbean,73.7332895869863
+patient_reach,MEX,Mexico,Latin America & Caribbean,70.84319949642125
+execution_readiness,USA,United States,North America,88.23116792210061
+execution_readiness,CHN,China,East Asia & Pacific,78.28236836023284
+execution_readiness,IND,India,South Asia,69.13216302215872
+execution_readiness,BRA,Brazil,Latin America & Caribbean,67.29217213468095
+execution_readiness,MEX,Mexico,Latin America & Caribbean,65.8582494531514
+competition_averse,USA,United States,North America,74.8004537987459
+competition_averse,RUS,Russian Federation,Europe & Central Asia,74.67670980548208
+competition_averse,IND,India,South Asia,72.99062303915237
+competition_averse,BRA,Brazil,Latin America & Caribbean,70.0528916586191
+competition_averse,CHN,China,East Asia & Pacific,68.92640268648361
