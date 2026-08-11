@@ -10,13 +10,12 @@ This is a healthcare strategy analytics and prescriptive-optimisation project. I
 
 ## Final build status
 
-The reproducible Python pipeline, relational MySQL 8 layer, SQL checks and views, scoring model, binary optimisation, robustness analysis, saved outputs, automated tests, documentation and seven-slide executive deck are complete. A Power BI dashboard was considered during planning but is explicitly outside the final MVP; the executive deck is the visual decision deliverable. The remaining work for the project owner is understanding and interview practice, not software development.
+The reproducible Python pipeline, relational MySQL 8 layer, SQL checks and views, scoring model, binary optimisation, robustness analysis, saved outputs, automated tests and documentation are complete.
 
 ## Data sources
 
 - ClinicalTrials.gov API v2: trials, sponsors, interventions, enrollment, dates, and locations
 - WHO Global Health Observatory: adult obesity prevalence
-- NCD Risk Factor Collaboration: considered for uncertainty intervals, but excluded from production because the saved extract failed completeness checks
 - World Bank Indicators API: population and health-system indicators
 
 ## Guardrails
